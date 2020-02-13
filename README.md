@@ -1,10 +1,7 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/amueller/introduction_to_ml_with_python/master)
-
 # Introduction to Machine Learning with Python
 
 This repository holds the code for the forthcoming book "Introduction to Machine
-Learning with Python" by [Andreas Mueller](http://amueller.io) and [Sarah Guido](https://twitter.com/sarah_guido).
-You can find details about the book on the [O'Reilly website](http://shop.oreilly.com/product/0636920030515.do).
+Learning with Python" .
 
 The books requires the current stable version of scikit-learn, that is
 0.20.0.  Most of the book can also be used with previous versions of
@@ -75,7 +72,6 @@ For the text processing chapter, you need to download the English language model
 
 ## Submitting Errata
 
-If you have errata for the (e-)book, please submit them via the [O'Reilly Website](http://www.oreilly.com/catalog/errata.csp?isbn=0636920030515).
 You can submit fixed to the code as pull-requests here, but I'd appreciate it if you would also submit them there, as this repository doesn't hold the
 "master notebooks".
 
